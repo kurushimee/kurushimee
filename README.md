@@ -1,5 +1,5 @@
 ## Hi there 👋
 
-I'm Ivan Ermakov, an InfoSec student at SibSUTIS. I'm passionate about game development, and it's my dream to be a good indie dev. Currently, I'm just trying to create more personal projects, as well as trying myself in more art stuff (primarily music).
+I'm kurushimee, a cyber security student at SibSUTIS and a passionate indie game dev. Currently, I'm trying to work on my personal projects, and it's my dream to make a living off making games in the future. Just as well, I'm trying myself out in making and performing other kinds of art (primarily music).
 
 You can check out my released games on itch.io: https://kurushimee.itch.io/
